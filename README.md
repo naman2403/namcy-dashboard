@@ -25,32 +25,6 @@ Before you begin, ensure you have met the following requirements:
 - Basic understanding of React and JavaScript.
 - Syncfusion account and license key (for using Syncfusion components).
 
-## Getting Started
-
-Follow these steps to get the project up and running on your local machine:
-
-1. **Clone the repository:**
-   ```
-   git clone https://github.com/your-username/react-admin-dashboard.git
-   cd react-admin-dashboard
-   ```
-
-2. **Install dependencies:**
-   ```
-   npm install
-   ```
-
-3. **Configure Syncfusion:**
-   - Obtain your Syncfusion license key from the Syncfusion website.
-   - Configure the Syncfusion components with your license key.
-
-4. **Start the development server:**
-   ```
-   npm start
-   ```
-
-5. **Open the app:**
-   Visit `http://localhost:3000` in your browser to view the dashboard app.
 
 ## Usage
 
@@ -60,10 +34,5 @@ Feel free to explore the codebase, customize components, and add new features to
 
 Contributions are welcome! If you find any issues or want to enhance the functionality of the dashboard, please create a pull request or open an issue explaining your proposal.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Happy coding! 🚀
